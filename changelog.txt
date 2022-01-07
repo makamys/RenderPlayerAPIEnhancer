@@ -1,0 +1,16 @@
+== Render Player API enhancer 1.4 ==
++ added license information
+
+== Render Player API enhancer 1.3 ==
++ changed method handling from keeping or removing to keeping or renaming
+
+== Render Player API enhancer 1.2 ==
++ improved support for mod "Armourers Workshop"
++ improved option file management
+
+== Render Player API enhancer 1.1 ==
++ added scans for super method calls to detect whether a methods need to be removed
++ added options file for canonical class name candidate patterns
+
+== Render Player API enhancer 1.0 ==
++ created Render Player API enhancer for Minecraft 1.7.10
