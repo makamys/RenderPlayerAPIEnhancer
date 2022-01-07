@@ -1,14 +1,14 @@
-package ${package};
+package api.player;
 
 import net.minecraft.init.Blocks;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = ${mainclass}.MODID, version = ${mainclass}.VERSION)
-public class ${mainclass}
+@Mod(modid = Renderplayerapienhancer.MODID, version = Renderplayerapienhancer.VERSION)
+public class Renderplayerapienhancer
 {
-    public static final String MODID = "${modid}";
+    public static final String MODID = "RenderPlayerAPIEnhancer";
     public static final String VERSION = "@VERSION@";
 
     @EventHandler
